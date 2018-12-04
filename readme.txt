@@ -1,4 +1,6 @@
-With all the files in the zip in one directory, run the command:
+Download weights file from: https://drive.google.com/open?id=1uMw-7EHsasbiaANAjjAuGSg7F95_wq7X
+
+With all the files in one directory (weights and all the files in the repository) , run the command:
 
 python chatbot.py
 
